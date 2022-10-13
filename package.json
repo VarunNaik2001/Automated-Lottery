@@ -12,5 +12,9 @@
     "Defi"
   ],
   "author": "Varun Naik",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^2.0.0",
+    "hardhat": "^2.12.0"
+  }
 }
