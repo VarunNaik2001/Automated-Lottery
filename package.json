@@ -1,0 +1,16 @@
+{
+  "name": "automated_lottery",
+  "version": "1.0.0",
+  "description": "A decentralized, fully automated lottery that randomly selects a winner after 100 tickets are sold",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Solidity",
+    "Ethereum",
+    "Defi"
+  ],
+  "author": "Varun Naik",
+  "license": "MIT"
+}
